@@ -1,0 +1,188 @@
+.body
+{
+  font-family: 'Montserrat';
+}
+.blox
+{
+  color:#ef8172;
+  padding-bottom: 2rem;
+}
+.blox:hover{
+  color:#ff4c68;
+}
+.container-fluid
+{
+  padding: 5% 15% 7%;
+}
+.carousel-item
+{
+    padding: 5% 10%;
+}
+.card
+{
+  text-align: center;
+}
+
+.downbut
+{
+  margin:5% 3% 5% 0;
+}
+.dog
+{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+.price
+{
+text-align: center;
+}
+#features {
+  padding:7% 15%;
+  size:4.5rem;
+  background-color: #fff;
+  position: relative;
+
+}
+.featurbox
+{
+  text-align: center;
+  padding:5%;
+}
+.testimonial-text
+{
+  font-family: 'Montserrat-Bold',sans-serif;
+  line-height: 1.5;
+  font-size:3rem;
+  font-weight: bolder;
+  text-align: center;
+
+}
+h3
+{
+  font-family: 'Montserrat-Bold';
+  font-size:1.5rem;
+}
+
+.navbar
+{
+  padding:0 0 4.5rem;
+}
+.navbar-brand
+{
+font-family: 'Ubuntu', cursive;
+font-size: 2.5rem;
+font-weight: bold;
+}
+.nav-item
+{
+  padding: 0 18px;
+}
+.nav-link
+{
+  font-family: 'Montserrat-black';
+  font-weight: lighter;
+}
+p
+{
+  color:#8f8f8f;
+}
+#press
+{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo
+{
+  width:15%;
+  margin:20px 20px;
+}
+#pricing
+{
+  padding:100px;
+}
+.pad
+{
+  padding-bottom: 40px;
+}
+#title
+{
+  background-color: #ff4c68;
+  color:#fff;
+}
+#testimonials
+{
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+}
+.titImg
+{
+  width:60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right:35%;
+}
+.testImg
+{
+  width:15%;
+  border-radius: 100%;
+  margin:15px;
+}
+.tind
+{
+  font-family: 'Montserrat-Bold',sans-serif;
+  line-height: 1.5;
+  font-size:2rem;
+  font-weight: bolder;
+}
+.pad
+{
+  text-align: center;
+}
+#cta
+{
+  font-family: 'Montserrat-Black',sans-serif;
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  color: #fff;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+.some
+{
+  margin-right: 50px;
+}
+#footer
+{
+    padding: 7% 15%;
+      text-align: center;
+  color:#000;
+  background-color: #fff;
+
+}
+.soicon
+{
+  margin:20px;
+}
+@media (max-width:1028px)
+{
+#title
+{
+  text-align: center;
+}
+.titImg
+{
+  position:static;
+  transform:rotate(0);
+}
+}
